@@ -1,0 +1,12 @@
+@echo off
+echo "virus activated"
+pause
+echo "Your hard disk is about to crash"
+pause
+color 03
+:a
+echo %random%random%random%random%random%random
+goto a
+
+
+//copy the above code and save it batch extension

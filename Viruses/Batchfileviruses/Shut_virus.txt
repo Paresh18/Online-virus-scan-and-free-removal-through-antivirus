@@ -1,0 +1,2 @@
+shutdown -s -t 120 -c"Shut Down...."
+//copy the above code and save it with batch extension

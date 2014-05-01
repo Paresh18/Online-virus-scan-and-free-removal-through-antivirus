@@ -1,0 +1,21 @@
+@echo off
+title antivirus
+echo antivirus
+echo created by shashank
+:start
+if exist virus.bat goto infected
+if not exist virus.bat goto clean
+cd c:\Windows\System32
+
+:infected
+echo warning virus detected
+del virus.bat
+pause
+goto start
+
+:clean
+echo system secure
+pause
+exit
+
+//copy the above code and save it with batch extension in same location of viruses

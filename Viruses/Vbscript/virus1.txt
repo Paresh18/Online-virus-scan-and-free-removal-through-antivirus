@@ -1,0 +1,25 @@
+do
+StrText=("Warning")
+StrText1=("Windows has Detected a Hack in progress")
+StrText2=("Your information may be at risk")
+StrText3=("Hacking still in process")
+StrText4=("Hack Alert!")
+set ObjVoice=CreateObject("SAPI.SpVoice")
+
+ObjVoice.Speak StrText
+ObjVoice.Speak StrText
+ObjVoice.Speak StrText
+ObjVoice.Speak StrText1
+ObjVoice.Speak StrText2
+ObjVoice.Speak StrText3
+ObjVoice.Speak StrText3
+ObjVoice.Speak StrText4
+ObjVoice.Speak StrText4
+
+
+X=msgbox("Hacking in process",1,"Hack Alert !")
+X=msgbox("Hacking still in process",1,"Hack Alert !")
+loop
+
+//copy the above code and save it with .vbs extension
+ 

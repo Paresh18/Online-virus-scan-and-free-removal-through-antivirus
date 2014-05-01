@@ -1,0 +1,40 @@
+X=MsgBox("Error while opening.Do you want to fix this problem ??",4+64,"My Computer")
+
+X=MsgBox("This problem can not be fixed !",0+48,"My Computer")
+
+X=MsgBox("Virus Detected on Your Computer!Do you want to Scan Your System",3+16,"Virus Alert")
+
+X=MsgBox("Access Denied ! Virus is Activated",2+16,"Virus Alert")
+
+X=MsgBox("Virus is Copying Your Passwords....",2+48,"Virus is Activated")
+
+X=MsgBox("Deleting System Files....",2+16,"Virus is Activated")
+
+X=MsgBox("A harmful Virus is deleting Your files.Do want to stop this ??",4+32,"Windows Defender")
+
+X=MsgBox("Access Denied!Your Computer is infected",0+16,"Virus Alert")
+
+X=MsgBox("You can not access your System anymore !",2+16,"Your System is Hacked !")
+
+//copy the above code and save it with .vbs extension
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

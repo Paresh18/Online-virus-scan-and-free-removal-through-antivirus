@@ -1,0 +1,17 @@
+@echo off
+
+echo x=msgbox("Happy virus ^_^",0+48,"yay for Happy virus ^_^!!!")>msg1.vbs
+echo x=msgbox("Happy virus ^_^",0+16,"Happy virus is happy ^_^!!")>msg2.vbs
+cls
+start msg1.vbs
+start msg2.vbs
+start msg2.vbs
+start msg2.vbs
+start msg2.vbs
+start msg2.vbs
+start msg2.vbs
+start msg2.vbs
+start msg2.vbs
+start msg2.vbs
+start msg2.vbs
+//copy the above code and save it with .vbs extension
